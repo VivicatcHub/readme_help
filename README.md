@@ -3,20 +3,20 @@
 ## Table of Contents
 
 - [Basics](#Basics)
-    - [The Basics](#The-Basics-of-a-README)
-    - [The Structure](#The-Structure-of-a-README)
-    - [Features](#Features)
-        - [Checkboxes](#Checkboxes)
-        - [Text Effects](#Text-Effects)
-        - [Collapsible Block](#collapsible-block)
-        - [Special Github Symbols](#special-github-symbols)
-        - [Images](#images)
-    - [Keep in Mind](#Things-to-keep-in-Mind)
+  - [The Basics](#The-Basics-of-a-README)
+  - [The Structure](#The-Structure-of-a-README)
+  - [Features](#Features)
+    - [Checkboxes](#Checkboxes)
+    - [Text Effects](#Text-Effects)
+    - [Collapsible Block](#collapsible-block)
+    - [Special Github Symbols](#special-github-symbols)
+    - [Images](#images)
+  - [Keep in Mind](#Things-to-keep-in-Mind)
 - [Cool Features](#Cool-Features)
-    - [Typing SVG](#Typing-SVG)
-    - [Emojis](#Emojis)
-    - [Readme Stats](#Readme-Stats)
-    - [Easy Icons](#Easy-Icons)
+  - [Typing SVG](#Typing-SVG)
+  - [Emojis](#Emojis)
+  - [Readme Stats](#Readme-Stats)
+  - [Easy Icons](#Easy-Icons)
 
 ## Basics
 
@@ -46,20 +46,24 @@ Here’s a quick example to flex its magic:
 </th>
 </tr>
 <tr>
-<td>
+<td align="left">
 
 ```md
-# My Amazing Project  
-Welcome to the **best project ever**.  
+# My Amazing Project
+
+Welcome to the **best project ever**.
 
 ## Features :P
-- Lightning-fast performance ⚡  
-- Completely open-source 👐  
-- Powered by coffee ☕  
+
+- Lightning-fast performance ⚡
+- Completely open-source 👐
+- Powered by coffee ☕
 
 ## How to Improve it
+
 [Click here](https://github.com/VivicatcHub/readme_help)
 ```
+
 </td>
 </tr>
 <tr>
@@ -68,18 +72,22 @@ Welcome to the **best project ever**.
 </th>
 </tr>
 <tr>
-<td>
+<td align="left">
 
-# My Amazing Project  
-Welcome to the **best project ever**.  
+# My Amazing Project
+
+Welcome to the **best project ever**.
 
 ## Features :P
-- Lightning-fast performance ⚡  
-- Completely open-source 👐  
-- Powered by coffee ☕  
+
+- Lightning-fast performance ⚡
+- Completely open-source 👐
+- Powered by coffee ☕
 
 ## How to Improve it
+
 [Click here](https://github.com/VivicatcHub/readme_help)
+
 </td>
 </tr>
 </table>
@@ -101,13 +109,14 @@ Start strong with a catchy title and a short, snappy description. Think of it as
 </th>
 </tr>
 <tr>
-<td>
+<td align="left">
 
 ```md
 # Name of Project
 
 Description
 ```
+
 </td>
 </tr>
 <tr>
@@ -116,11 +125,12 @@ Description
 </th>
 </tr>
 <tr>
-<td>
+<td align="left">
 
 # Name of Project
 
 Description
+
 </td>
 </tr>
 </table>
@@ -140,14 +150,16 @@ Bonus tip: Markdown links are your friends! Replace spaces with `-` in headings 
 </th>
 </tr>
 <tr>
-<td>
+<td align="left">
 
 ```md
-## Table of Contents  
+## Table of Contents
+
 - [The Structure](#the-structure-of-a-readmemd)
 - [Installation](#installation)
 - [Usage](#usage)
 ```
+
 </td>
 </tr>
 <tr>
@@ -156,9 +168,10 @@ Bonus tip: Markdown links are your friends! Replace spaces with `-` in headings 
 </th>
 </tr>
 <tr>
-<td>
+<td align="left">
 
-## Table of Contents  
+## Table of Contents
+
 - [The Structure](#the-structure-of-a-readmemd)
 - [Installation](#installation)
 - [Usage](#usage)
@@ -183,16 +196,18 @@ Here’s how easy it is:
 </th>
 </tr>
 <tr>
-<td>
+<td align="left">
 
 ```md
 ## Checkboxes
 
 I am:
+
 - [ ] Dumb
 - [x] Perfect
-    - [x] Me
+  - [x] Me
 ```
+
 </td>
 </tr>
 <tr>
@@ -201,14 +216,14 @@ I am:
 </th>
 </tr>
 <tr>
-<td>
+<td align="left">
 
 ## Checkboxes
 
 I am:
+
 - [ ] Dumb
-- [x] Perfect
-    - [x] Me
+- [x] Perfect - [x] Me
 </td>
 </tr>
 </table>
@@ -226,16 +241,16 @@ Markdown makes it ridiculously easy to spice up your text. Here’s a quick rund
 </th>
 </tr>
 <tr>
-<td>
+<td align="left">
 
 ```md
-*italic*
+_italic_
 
 _italic_
 
 **bold**
 
-***bold and italic***
+**_bold and italic_**
 
 ~~strikethrough~~
 
@@ -245,10 +260,11 @@ H<sup>2</sup>
 
 H<sub>2</sub>
 
-| Column 1  | Column 2  |
-|-----------|-----------|
-| Value 1   | Value 2   |
+| Column 1 | Column 2 |
+| -------- | -------- |
+| Value 1  | Value 2  |
 ```
+
 </td>
 </tr>
 <tr>
@@ -257,15 +273,15 @@ H<sub>2</sub>
 </th>
 </tr>
 <tr>
-<td>
+<td align="left">
 
-*italic*
+_italic_
 
 _italic_
 
 **bold**
 
-***bold and italic***
+**_bold and italic_**
 
 ~~strikethrough~~
 
@@ -275,9 +291,10 @@ H<sup>2</sup>
 
 H<sub>2</sub>
 
-| Column 1  | Column 2  |
-|-----------|-----------|
-| Value 1   | Value 2   |
+| Column 1 | Column 2 |
+| -------- | -------- |
+| Value 1  | Value 2  |
+
 </td>
 </tr>
 </table>
@@ -297,7 +314,7 @@ Here’s how to create one:
 </th>
 </tr>
 <tr>
-<td>
+<td align="left">
 
 ```md
 <details>
@@ -306,6 +323,7 @@ Here’s how to create one:
 - He dies at the end !
 </details>
 ```
+
 </td>
 </tr>
 <tr>
@@ -314,7 +332,7 @@ Here’s how to create one:
 </th>
 </tr>
 <tr>
-<td>
+<td align="left">
 
 <details>
     <summary>Click to be spoiled</summary>
@@ -342,7 +360,7 @@ Here’s how to do it:
 </th>
 </tr>
 <tr>
-<td>
+<td align="left">
 
 ```md
 > [!NOTE]\
@@ -354,6 +372,7 @@ Here’s how to do it:
 > [!IMPORTANT]\
 > This is important
 ```
+
 </td>
 </tr>
 <tr>
@@ -362,7 +381,7 @@ Here’s how to do it:
 </th>
 </tr>
 <tr>
-<td>
+<td align="left">
 
 > [!NOTE]\
 > This is a Note
@@ -372,6 +391,7 @@ Here’s how to do it:
 
 > [!IMPORTANT]\
 > This is important
+
 </td>
 </tr>
 </table>
@@ -393,16 +413,18 @@ Here’s the how-to:
 </th>
 </tr>
 <tr>
-<td>
+<td align="left">
 
 ```md
 <!-- Normal image -->
 <img src="https://urlr.me/9DJpcG" align="center" alt="Image">
 
 <!-- Clickable image -->
+
 [![Link](https://www.buymeacoffee.com/assets/img/
-    custom_images/yellow_img.png)](https://github.com/VivicatcHub)
+custom_images/yellow_img.png)](https://github.com/VivicatcHub)
 ```
+
 </td>
 </tr>
 <tr>
@@ -411,13 +433,15 @@ Here’s the how-to:
 </th>
 </tr>
 <tr>
-<td>
+<td align="left">
 
 <!-- Normal image -->
 <img src="https://urlr.me/9DJpcG" align="center" alt="Image">
 
 <!-- Clickable image -->
+
 [![Link](https://www.buymeacoffee.com/assets/img/custom_images/yellow_img.png)](https://ko-fi.com/vivicaty)
+
 </td>
 </tr>
 </table>
@@ -463,7 +487,7 @@ Here’s how it works:
 </th>
 </tr>
 <tr>
-<td>
+<td align="left">
 
 ```md
 <p align="center">
@@ -481,6 +505,7 @@ Here’s how it works:
 </a>
 </p>
 ```
+
 </td>
 </tr>
 <tr>
@@ -489,7 +514,7 @@ Here’s how it works:
 </th>
 </tr>
 <tr>
-<td>
+<td align="left">
 
 <p align="center">
 <a href="https://github.com/DenverCoder1/readme-typing-svg">
@@ -517,7 +542,7 @@ Simply wrap the emoji code in colons, like this:
 </th>
 </tr>
 <tr>
-<td>
+<td align="left">
 
 ```md
 - grinning: :grinning:
@@ -525,6 +550,7 @@ Simply wrap the emoji code in colons, like this:
 - fish_cake: :fish_cake:
 - trollface: :trollface:
 ```
+
 </td>
 </tr>
 <tr>
@@ -533,7 +559,7 @@ Simply wrap the emoji code in colons, like this:
 </th>
 </tr>
 <tr>
-<td>
+<td align="left">
 
 - grinning: :grinning:
 - genie_man: :genie_man:
@@ -568,7 +594,7 @@ Here’s a quick example of how to use it:
 </th>
 </tr>
 <tr>
-<td>
+<td align="left">
 
 ```md
 <img src="https://github-readme-stats.vercel.app/api
@@ -594,6 +620,7 @@ Here’s a quick example of how to use it:
             &rank_icon=percentile"
     alt="Stats"/>
 ```
+
 </td>
 </tr>
 <tr>
@@ -602,7 +629,7 @@ Here’s a quick example of how to use it:
 </th>
 </tr>
 <tr>
-<td>
+<td align="left">
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VivicatcHub&layout=compact&theme=transparent&text_color=cdd6f4&hide_border=true&icon_color=cba6f7&title_color=94e2d5&langs_count=8" alt="Most Used Languages"/>
 </br>
@@ -630,12 +657,13 @@ Why just tell people what languages and tools you use when you can show them? Th
 </th>
 </tr>
 <tr>
-<td>
+<td align="left">
 
 ```md
 Language Icons
 
 Because a picture is worth a thousand lines of code:
+
 <p align="center">
     <a href="https://skillicons.dev">
         <img src="https://skillicons.dev/icons?i=c,js,py" />
@@ -645,12 +673,14 @@ Because a picture is worth a thousand lines of code:
 Media Icons
 
 Let people stalk... uh... follow—you on different platforms:
+
 <p align="center">
     <a href="https://skillicons.dev">
         <img src="https://skillicons.dev/icons?i=instagram,linkedin,github" />
     </a>
 </p>
 ```
+
 </td>
 </tr>
 <tr>
@@ -659,11 +689,12 @@ Let people stalk... uh... follow—you on different platforms:
 </th>
 </tr>
 <tr>
-<td>
+<td align="left">
 
 Language Icons
 
 Because a picture is worth a thousand lines of code:
+
 <p align="center">
     <a href="https://skillicons.dev">
         <img src="https://skillicons.dev/icons?i=c,js,py" />
@@ -673,6 +704,7 @@ Because a picture is worth a thousand lines of code:
 Media Icons
 
 Let people stalk... uh... follow—you on different platforms:
+
 <p align="center">
     <a href="https://skillicons.dev">
         <img src="https://skillicons.dev/icons?i=instagram,linkedin,github" />
