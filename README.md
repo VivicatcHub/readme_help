@@ -206,6 +206,7 @@ I am:
 - [ ] Dumb
 - [x] Perfect
   - [x] Me
+- [ ] Stupid
 ```
 
 </td>
@@ -223,7 +224,9 @@ I am:
 I am:
 
 - [ ] Dumb
-- [x] Perfect - [x] Me
+- [x] Perfect
+  - [x] Me
+- [ ] Stupid
 </td>
 </tr>
 </table>
